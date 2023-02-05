@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @jpranays
-- 🕷 I’m Web Developer
+- 👋 Hi, I’m [@jpranays](https://jpranays.netlify.app/)
+
+
 
 <!---
 jpranays/jpranays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
