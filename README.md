@@ -118,14 +118,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=dark&background=0D1117&ring=58a6ff&fire=FF6C37&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=false" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/jpranays" alt="GitHub Contribution Chart"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jpranays&theme=darkhub&title=Followers,Stars,Commit,Repositories,PullRequest,Issues&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
-</p>
 
 
 <p align="center">
