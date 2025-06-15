@@ -107,7 +107,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&hide_border=false" alt="GitHub Stats"/>
