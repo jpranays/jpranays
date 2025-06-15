@@ -6,6 +6,7 @@
   <a href="https://x.com/jpranays"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://www.npmjs.com/~jpranays"><img src="https://img.shields.io/badge/NPM-FC3939?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
   <a href="https://leetcode.com/u/jpranays"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+    <a href="mailto:pranay1315@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -106,9 +107,27 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&hide_border=false" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=dark&background=0D1117&ring=58a6ff&fire=FF6C37&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/jpranays" alt="GitHub Contribution Chart"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jpranays&theme=darkhub&title=Followers,Stars,Commit,Repositories,PullRequest,Issues&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=dark" alt="GitHub Profile Summary Cards"/>
 </p>
