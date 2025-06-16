@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Pranay Jadhav</h1>
 
 <p align="center">
-  <a href="https://jpranays.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://jpranays.netlify.app"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/jpranays"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/jpranays"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://www.npmjs.com/~jpranays"><img src="https://img.shields.io/badge/NPM-FC3939?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
@@ -38,7 +38,11 @@
   <a href="https://github.com/dhavalwd/crontab-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dhavalwd&repo=crontab-react&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="crontab-react"></a>
 </p>
 
-<p align="center">✨ <i>And many more exciting contributions on the way...</i> ✨</p>
+<p align="center">
+  <a href="https://github.com/jpranays/pranay-portfolio?tab=readme-ov-file#pranay-sunil-jadhav" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio">
+  </a>
+</p>
 
 ---
 
