@@ -17,16 +17,16 @@
   <a href="https://github.com/jpranays/react-fast-hooks">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
-      <img width="278" alt="react-fast-hooks" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <img width="278" alt="react-fast-hooks" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
     </picture>
   </a>
 
   <a href="https://github.com/jpranays/cli-gh">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
-      <img width="278" alt="cli-gh" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <img width="278" alt="cli-gh" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
     </picture>
   </a>
 </p>
@@ -37,17 +37,161 @@
 
 <div align="center">
 
-| Package | PR | NPM downloads ⬇️⬇️ | Github stars ⭐⭐ |
-|--------|-----|--------------------|------------------|
-| <a href="https://www.npmjs.com/package/@mantine/hooks"><img src="https://img.shields.io/npm/v/@mantine/hooks?label=@mantine/hooks&style=for-the-badge&logo=npm" alt="@mantine/hooks" /></a> | [#6466](https://github.com/mantinedev/mantine/pull/6466) | <a href="https://www.npmjs.com/package/@mantine/hooks"><img src="https://img.shields.io/npm/dm/@mantine/hooks" /></a> | <a href="https://github.com/mantinedev/mantine"><img src="https://img.shields.io/github/stars/mantinedev/mantine" /></a> |
-| <a href="https://www.npmjs.com/package/primereact"><img src="https://img.shields.io/npm/v/primereact?label=primereact&style=for-the-badge&logo=npm" alt="primereact" /></a> | [#6860](https://github.com/primefaces/primereact/pull/6860) | <a href="https://www.npmjs.com/package/primereact"><img src="https://img.shields.io/npm/dm/primereact" /></a> | <a href="https://github.com/primefaces/primereact"><img src="https://img.shields.io/github/stars/primefaces/primereact" /></a> |
-| <a href="https://www.npmjs.com/package/rsuite"><img src="https://img.shields.io/npm/v/rsuite?label=rsuite&style=for-the-badge&logo=npm" alt="rsuite" /></a> | [#3875](https://github.com/rsuite/rsuite/pull/3875) | <a href="https://www.npmjs.com/package/rsuite"><img src="https://img.shields.io/npm/dm/rsuite" /></a> | <a href="https://github.com/rsuite/rsuite"><img src="https://img.shields.io/github/stars/rsuite/rsuite" /></a> |
-| <a href="https://www.npmjs.com/package/react-tooltip"><img src="https://img.shields.io/npm/v/react-tooltip?label=react-tooltip&style=for-the-badge&logo=npm" alt="react-tooltip" /></a> | [#1154](https://github.com/ReactTooltip/react-tooltip/pull/1154) | <a href="https://www.npmjs.com/package/react-tooltip"><img src="https://img.shields.io/npm/dm/react-tooltip" /></a> | <a href="https://github.com/ReactTooltip/react-tooltip"><img src="https://img.shields.io/github/stars/ReactTooltip/react-tooltip" /></a> |
-| <a href="https://www.npmjs.com/package/grommet"><img src="https://img.shields.io/npm/v/grommet?label=grommet&style=for-the-badge&logo=npm" alt="grommet" /></a> | [#7255](https://github.com/grommet/grommet/pull/7255) | <a href="https://www.npmjs.com/package/grommet"><img src="https://img.shields.io/npm/dm/grommet" /></a> | <a href="https://github.com/grommet/grommet"><img src="https://img.shields.io/github/stars/grommet/grommet" /></a> |
-| <a href="https://www.npmjs.com/package/react-dropdown-select"><img src="https://img.shields.io/npm/v/react-dropdown-select?label=react-dropdown-select&style=for-the-badge&logo=npm" alt="react-dropdown-select" /></a> | [#306](https://github.com/sanusart/react-dropdown-select/pull/306) | <a href="https://www.npmjs.com/package/react-dropdown-select"><img src="https://img.shields.io/npm/dm/react-dropdown-select" /></a> | <a href="https://github.com/sanusart/react-dropdown-select"><img src="https://img.shields.io/github/stars/sanusart/react-dropdown-select" /></a> |
-| <a href="https://www.npmjs.com/package/hamburger-react"><img src="https://img.shields.io/npm/v/hamburger-react?label=hamburger-react&style=for-the-badge&logo=npm" alt="hamburger-react" /></a> | [#68](https://github.com/cyntler/hamburger-react/pull/68) | <a href="https://www.npmjs.com/package/hamburger-react"><img src="https://img.shields.io/npm/dm/hamburger-react" /></a> | <a href="https://github.com/cyntler/hamburger-react"><img src="https://img.shields.io/github/stars/cyntler/hamburger-react" /></a> |
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #f0f0f0;">Package</th>
+      <th>PR</th>
+      <th>NPM downloads ⬇️⬇️</th>
+      <th>Github stars ⭐⭐</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/@mantine/hooks">
+          <img src="https://img.shields.io/npm/v/@mantine/hooks?label=@mantine/hooks&style=for-the-badge&logo=npm" alt="@mantine/hooks" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mantinedev/mantine/pull/6466">#6466</a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/@mantine/hooks">
+          <img src="https://img.shields.io/npm/dm/@mantine/hooks" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/mantinedev/mantine">
+          <img src="https://img.shields.io/github/stars/mantinedev/mantine" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/primereact">
+          <img src="https://img.shields.io/npm/v/primereact?label=primereact&style=for-the-badge&logo=npm" alt="primereact" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/primefaces/primereact/pull/6860">#6860</a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/primereact">
+          <img src="https://img.shields.io/npm/dm/primereact" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/primefaces/primereact">
+          <img src="https://img.shields.io/github/stars/primefaces/primereact" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/rsuite">
+          <img src="https://img.shields.io/npm/v/rsuite?label=rsuite&style=for-the-badge&logo=npm" alt="rsuite" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rsuite/rsuite/pull/3875">#3875</a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/rsuite">
+          <img src="https://img.shields.io/npm/dm/rsuite" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/rsuite/rsuite">
+          <img src="https://img.shields.io/github/stars/rsuite/rsuite" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/react-tooltip">
+          <img src="https://img.shields.io/npm/v/react-tooltip?label=react-tooltip&style=for-the-badge&logo=npm" alt="react-tooltip" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ReactTooltip/react-tooltip/pull/1154">#1154</a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/react-tooltip">
+          <img src="https://img.shields.io/npm/dm/react-tooltip" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/ReactTooltip/react-tooltip">
+          <img src="https://img.shields.io/github/stars/ReactTooltip/react-tooltip" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/grommet">
+          <img src="https://img.shields.io/npm/v/grommet?label=grommet&style=for-the-badge&logo=npm" alt="grommet" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/grommet/grommet/pull/7255">#7255</a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/grommet">
+          <img src="https://img.shields.io/npm/dm/grommet" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/grommet/grommet">
+          <img src="https://img.shields.io/github/stars/grommet/grommet" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/react-dropdown-select">
+          <img src="https://img.shields.io/npm/v/react-dropdown-select?label=react-dropdown-select&style=for-the-badge&logo=npm" alt="react-dropdown-select" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sanusart/react-dropdown-select/pull/306">#306</a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/react-dropdown-select">
+          <img src="https://img.shields.io/npm/dm/react-dropdown-select" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sanusart/react-dropdown-select">
+          <img src="https://img.shields.io/github/stars/sanusart/react-dropdown-select" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/hamburger-react">
+          <img src="https://img.shields.io/npm/v/hamburger-react?label=hamburger-react&style=for-the-badge&logo=npm" alt="hamburger-react" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/cyntler/hamburger-react/pull/68">#68</a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/hamburger-react">
+          <img src="https://img.shields.io/npm/dm/hamburger-react" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/cyntler/hamburger-react">
+          <img src="https://img.shields.io/github/stars/cyntler/hamburger-react" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
+
 
 
 <p align="center">
@@ -128,29 +272,29 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dracula&title_color=58a6ff&icon_color=79c0ff&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=default&title_color=0366d6&icon_color=0366d6&hide_border=false" />
-    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=default&title_color=0366d6&icon_color=0366d6&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=dracula&title_color=58a6ff&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=default&title_color=0366d6&hide_border=false" />
-    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=default&title_color=0366d6&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=swift&title_color=0d47a1&hide_border=false" />
+    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=swift&title_color=0d47a1&hide_border=false" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=dracula&ring=58a6ff&fire=FF6C37&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=default&ring=0366d6&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=666666&hide_border=false" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=default&ring=0366d6&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=666666&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=swift&ring=0d47a1&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=444444&hide_border=false" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=swift&ring=0d47a1&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=444444&hide_border=false" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=dracula" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=default" />
-    <img alt="GitHub Profile Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=default" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=swift" />
+    <img alt="GitHub Profile Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=swift" />
   </picture>
 </p>
