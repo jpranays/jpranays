@@ -33,9 +33,6 @@
   <a href="https://github.com/ReactTooltip/react-tooltip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReactTooltip&repo=react-tooltip&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="react-tooltip"></a>
   <a href="https://github.com/grommet/grommet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grommet&repo=grommet&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="grommet"></a>
   <a href="https://github.com/sanusart/react-dropdown-select"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanusart&repo=react-dropdown-select&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="react-dropdown-select"></a>
-  <a href="https://github.com/cyntler/hamburger-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cyntler&repo=hamburger-react&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="hamburger-react"></a>
-  <a href="https://github.com/sojinantony01/react-cron-generator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sojinantony01&repo=react-cron-generator&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="react-cron-generator"></a>
-  <a href="https://github.com/dhavalwd/crontab-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dhavalwd&repo=crontab-react&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="crontab-react"></a>
 </p>
 
 <p align="center">
