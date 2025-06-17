@@ -15,10 +15,19 @@
 
 <p align="center">
   <a href="https://github.com/jpranays/react-fast-hooks">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" alt="react-fast-hooks">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
+      <img width="278" alt="react-fast-hooks" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
+    </picture>
   </a>
+
   <a href="https://github.com/jpranays/cli-gh">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" alt="cli-gh">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
+      <img width="278" alt="cli-gh" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=default&title_color=0366d6&hide_border=false&icon_color=58a6ff&show_icons=false" />
+    </picture>
   </a>
 </p>
 
@@ -30,13 +39,13 @@
 
 | Package | PR | NPM downloads ⬇️⬇️ | Github stars ⭐⭐ |
 |--------|-----|--------------------|------------------|
-| <a href="https://github.com/mantinedev/mantine"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantinedev&repo=mantine&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="mantine"></a> | [#6466](https://github.com/mantinedev/mantine/pull/6466) | ![npm](https://img.shields.io/npm/dm/@mantine/hooks) | ![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine) |
-| <a href="https://github.com/primefaces/primereact"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=primefaces&repo=primereact&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="primereact"></a> | [#6860](https://github.com/primefaces/primereact/pull/6860) | ![npm](https://img.shields.io/npm/dm/primereact) | ![GitHub stars](https://img.shields.io/github/stars/primefaces/primereact) |
-| <a href="https://github.com/rsuite/rsuite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsuite&repo=rsuite&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="rsuite"></a> | [#3875](https://github.com/rsuite/rsuite/pull/3875) | ![npm](https://img.shields.io/npm/dm/rsuite) | ![GitHub stars](https://img.shields.io/github/stars/rsuite/rsuite) |
-| <a href="https://github.com/ReactTooltip/react-tooltip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReactTooltip&repo=react-tooltip&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="react-tooltip"></a> | [#1154](https://github.com/ReactTooltip/react-tooltip/pull/1154) | ![npm](https://img.shields.io/npm/dm/react-tooltip) | ![GitHub stars](https://img.shields.io/github/stars/ReactTooltip/react-tooltip) |
-| <a href="https://github.com/grommet/grommet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grommet&repo=grommet&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="grommet"></a> | [#7255](https://github.com/grommet/grommet/pull/7255) | ![npm](https://img.shields.io/npm/dm/grommet) | ![GitHub stars](https://img.shields.io/github/stars/grommet/grommet) |
-| <a href="https://github.com/sanusart/react-dropdown-select"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanusart&repo=react-dropdown-select&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="react-dropdown-select"></a> | [#306](https://github.com/sanusart/react-dropdown-select/pull/306) | ![npm](https://img.shields.io/npm/dm/react-dropdown-select) | ![GitHub stars](https://img.shields.io/github/stars/sanusart/react-dropdown-select) |
-| <a href="https://github.com/cyntler/hamburger-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cyntler&repo=hamburger-react&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="hamburger-react"></a> | [#68](https://github.com/cyntler/hamburger-react/pull/68) | ![npm](https://img.shields.io/npm/dm/hamburger-react) | ![GitHub stars](https://img.shields.io/github/stars/cyntler/hamburger-react) |
+| <a href="https://www.npmjs.com/package/@mantine/hooks"><img src="https://img.shields.io/npm/v/@mantine/hooks?label=@mantine/hooks&style=for-the-badge&logo=npm" alt="@mantine/hooks" /></a> | [#6466](https://github.com/mantinedev/mantine/pull/6466) | <a href="https://www.npmjs.com/package/@mantine/hooks"><img src="https://img.shields.io/npm/dm/@mantine/hooks" /></a> | <a href="https://github.com/mantinedev/mantine"><img src="https://img.shields.io/github/stars/mantinedev/mantine" /></a> |
+| <a href="https://www.npmjs.com/package/primereact"><img src="https://img.shields.io/npm/v/primereact?label=primereact&style=for-the-badge&logo=npm" alt="primereact" /></a> | [#6860](https://github.com/primefaces/primereact/pull/6860) | <a href="https://www.npmjs.com/package/primereact"><img src="https://img.shields.io/npm/dm/primereact" /></a> | <a href="https://github.com/primefaces/primereact"><img src="https://img.shields.io/github/stars/primefaces/primereact" /></a> |
+| <a href="https://www.npmjs.com/package/rsuite"><img src="https://img.shields.io/npm/v/rsuite?label=rsuite&style=for-the-badge&logo=npm" alt="rsuite" /></a> | [#3875](https://github.com/rsuite/rsuite/pull/3875) | <a href="https://www.npmjs.com/package/rsuite"><img src="https://img.shields.io/npm/dm/rsuite" /></a> | <a href="https://github.com/rsuite/rsuite"><img src="https://img.shields.io/github/stars/rsuite/rsuite" /></a> |
+| <a href="https://www.npmjs.com/package/react-tooltip"><img src="https://img.shields.io/npm/v/react-tooltip?label=react-tooltip&style=for-the-badge&logo=npm" alt="react-tooltip" /></a> | [#1154](https://github.com/ReactTooltip/react-tooltip/pull/1154) | <a href="https://www.npmjs.com/package/react-tooltip"><img src="https://img.shields.io/npm/dm/react-tooltip" /></a> | <a href="https://github.com/ReactTooltip/react-tooltip"><img src="https://img.shields.io/github/stars/ReactTooltip/react-tooltip" /></a> |
+| <a href="https://www.npmjs.com/package/grommet"><img src="https://img.shields.io/npm/v/grommet?label=grommet&style=for-the-badge&logo=npm" alt="grommet" /></a> | [#7255](https://github.com/grommet/grommet/pull/7255) | <a href="https://www.npmjs.com/package/grommet"><img src="https://img.shields.io/npm/dm/grommet" /></a> | <a href="https://github.com/grommet/grommet"><img src="https://img.shields.io/github/stars/grommet/grommet" /></a> |
+| <a href="https://www.npmjs.com/package/react-dropdown-select"><img src="https://img.shields.io/npm/v/react-dropdown-select?label=react-dropdown-select&style=for-the-badge&logo=npm" alt="react-dropdown-select" /></a> | [#306](https://github.com/sanusart/react-dropdown-select/pull/306) | <a href="https://www.npmjs.com/package/react-dropdown-select"><img src="https://img.shields.io/npm/dm/react-dropdown-select" /></a> | <a href="https://github.com/sanusart/react-dropdown-select"><img src="https://img.shields.io/github/stars/sanusart/react-dropdown-select" /></a> |
+| <a href="https://www.npmjs.com/package/hamburger-react"><img src="https://img.shields.io/npm/v/hamburger-react?label=hamburger-react&style=for-the-badge&logo=npm" alt="hamburger-react" /></a> | [#68](https://github.com/cyntler/hamburger-react/pull/68) | <a href="https://www.npmjs.com/package/hamburger-react"><img src="https://img.shields.io/npm/dm/hamburger-react" /></a> | <a href="https://github.com/cyntler/hamburger-react"><img src="https://img.shields.io/github/stars/cyntler/hamburger-react" /></a> |
 
 </div>
 
@@ -117,16 +126,31 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&hide_border=false" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dracula&title_color=58a6ff&icon_color=79c0ff&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=default&title_color=0366d6&icon_color=0366d6&hide_border=false" />
+    <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=default&title_color=0366d6&icon_color=0366d6&hide_border=false" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=dracula&title_color=58a6ff&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=default&title_color=0366d6&hide_border=false" />
+    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=default&title_color=0366d6&hide_border=false" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=dark&background=0D1117&ring=58a6ff&fire=FF6C37&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=false" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=dracula&ring=58a6ff&fire=FF6C37&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=default&ring=0366d6&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=666666&hide_border=false" />
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=default&ring=0366d6&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=666666&hide_border=false" />
+  </picture>
 </p>
 
-
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=dark" alt="GitHub Profile Summary Cards"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=dracula" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=default" />
+    <img alt="GitHub Profile Summary Cards" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jpranays&theme=default" />
+  </picture>
 </p>
