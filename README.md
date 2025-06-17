@@ -26,14 +26,20 @@
 
 <h2 align="center">📘 My Open Source Contributions</h2>
 
-<p align="center">
-  <a href="https://github.com/mantinedev/mantine"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantinedev&repo=mantine&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="mantine"></a>
-  <a href="https://github.com/primefaces/primereact"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=primefaces&repo=primereact&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="primereact"></a>
-  <a href="https://github.com/rsuite/rsuite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsuite&repo=rsuite&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="rsuite"></a>
-  <a href="https://github.com/ReactTooltip/react-tooltip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReactTooltip&repo=react-tooltip&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="react-tooltip"></a>
-  <a href="https://github.com/grommet/grommet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grommet&repo=grommet&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="grommet"></a>
-  <a href="https://github.com/sanusart/react-dropdown-select"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanusart&repo=react-dropdown-select&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="react-dropdown-select"></a>
-</p>
+<div align="center">
+
+| Package | PR | NPM downloads ⬇️⬇️ | Github stars ⭐⭐ |
+|--------|-----|--------------------|------------------|
+| <a href="https://github.com/mantinedev/mantine"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mantinedev&repo=mantine&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866&show_icons=false" alt="mantine"></a> | [#6466](https://github.com/mantinedev/mantine/pull/6466) | ![npm](https://img.shields.io/npm/dm/@mantine/hooks) | ![GitHub stars](https://img.shields.io/github/stars/mantinedev/mantine) |
+| <a href="https://github.com/primefaces/primereact"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=primefaces&repo=primereact&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="primereact"></a> | [#6860](https://github.com/primefaces/primereact/pull/6860) | ![npm](https://img.shields.io/npm/dm/primereact) | ![GitHub stars](https://img.shields.io/github/stars/primefaces/primereact) |
+| <a href="https://github.com/rsuite/rsuite"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rsuite&repo=rsuite&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="rsuite"></a> | [#3875](https://github.com/rsuite/rsuite/pull/3875) | ![npm](https://img.shields.io/npm/dm/rsuite) | ![GitHub stars](https://img.shields.io/github/stars/rsuite/rsuite) |
+| <a href="https://github.com/ReactTooltip/react-tooltip"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ReactTooltip&repo=react-tooltip&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="react-tooltip"></a> | [#1154](https://github.com/ReactTooltip/react-tooltip/pull/1154) | ![npm](https://img.shields.io/npm/dm/react-tooltip) | ![GitHub stars](https://img.shields.io/github/stars/ReactTooltip/react-tooltip) |
+| <a href="https://github.com/grommet/grommet"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=grommet&repo=grommet&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="grommet"></a> | [#7255](https://github.com/grommet/grommet/pull/7255) | ![npm](https://img.shields.io/npm/dm/grommet) | ![GitHub stars](https://img.shields.io/github/stars/grommet/grommet) |
+| <a href="https://github.com/sanusart/react-dropdown-select"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=sanusart&repo=react-dropdown-select&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="react-dropdown-select"></a> | [#306](https://github.com/sanusart/react-dropdown-select/pull/306) | ![npm](https://img.shields.io/npm/dm/react-dropdown-select) | ![GitHub stars](https://img.shields.io/github/stars/sanusart/react-dropdown-select) |
+| <a href="https://github.com/cyntler/hamburger-react"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=cyntler&repo=hamburger-react&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=false&icon_color=F8D866" alt="hamburger-react"></a> | [#68](https://github.com/cyntler/hamburger-react/pull/68) | ![npm](https://img.shields.io/npm/dm/hamburger-react) | ![GitHub stars](https://img.shields.io/github/stars/cyntler/hamburger-react) |
+
+</div>
+
 
 <p align="center">
   <a href="https://github.com/jpranays/pranay-portfolio?tab=readme-ov-file#pranay-sunil-jadhav" target="_blank" rel="noopener noreferrer">
