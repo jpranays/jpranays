@@ -1,12 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Pranay Jadhav</h1>
 
 <p align="center">
-  <a href="https://jpranays.netlify.app"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/jpranays"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://x.com/jpranays"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.npmjs.com/~jpranays"><img src="https://img.shields.io/badge/NPM-FC3939?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"></a>
-  <a href="https://leetcode.com/u/jpranays"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
-    <a href="mailto:pranay1315@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://jpranays.netlify.app">
+    <img src="https://img.shields.io/badge/Website-21356C?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/jpranays">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://x.com/jpranays">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
+  </a>
+  <a href="https://www.npmjs.com/~jpranays">
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
+  </a>
+  <a href="https://leetcode.com/u/jpranays">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="mailto:pranay1315@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
