@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">🤩 My Top Open Source Projects</h2>
+<h2 align="center">🤩 My Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/jpranays/react-fast-hooks">
