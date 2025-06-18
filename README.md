@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://jpranays.netlify.app">
-    <img src="https://img.shields.io/badge/Website-21356C?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-21356C?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/jpranays">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
