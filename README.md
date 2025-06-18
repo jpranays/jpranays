@@ -28,17 +28,17 @@
 <p align="center">
   <a href="https://github.com/jpranays/react-fast-hooks">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
-      <img width="max-content" alt="react-fast-hooks" src="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <img width="max-content" alt="react-fast-hooks" src="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
     </picture>
   </a>
 
   <a href="https://github.com/jpranays/cli-gh">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
-      <img width="max-content" alt="cli-gh" src="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <img width="max-content" alt="cli-gh" src="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
     </picture>
   </a>
 </p>
@@ -283,15 +283,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dracula&title_color=58a6ff&icon_color=79c0ff&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
-    <img height="max-content" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dracula&title_color=58a6ff&icon_color=79c0ff&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
+    <img height="max-content" alt="GitHub Stats" src="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
   </picture>
 <!--
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=dracula&title_color=58a6ff&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=swift&title_color=0d47a1&hide_border=false" />
-    <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=swift&title_color=0d47a1&hide_border=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=dracula&title_color=58a6ff&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=swift&title_color=0d47a1&hide_border=false" />
+    <img height="180em" alt="Top Languages" src="https://jpranays-github-readme-stats.vercel.app/api/top-langs/?username=jpranays&layout=compact&theme=swift&title_color=0d47a1&hide_border=false" />
   </picture>
   -->
 </p>
