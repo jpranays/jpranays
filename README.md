@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋</h1>
 
 <p align="center">
-  <a href="https://jpranays.netlify.app">
+  <a href="https://jpranays.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-21356C?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/jpranays">
