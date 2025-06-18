@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/jpranays">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
+    <img src="https://img.shields.io/badge/Twitter-343434?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
   </a>
   <a href="https://www.npmjs.com/~jpranays">
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
@@ -211,7 +211,7 @@
 
 <p align="center">
   <a href="https://github.com/jpranays/pranay-portfolio?tab=readme-ov-file#pranay-sunil-jadhav" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Portfolio">
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-d6d5d5?style=for-the-badge&logo=github&logoColor=181717" alt="View Portfolio">
   </a>
 </p>
 
