@@ -298,9 +298,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=dracula&ring=58a6ff&fire=FF6C37&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=swift&ring=0d47a1&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=444444&hide_border=false" />
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=jpranays&theme=swift&ring=0d47a1&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=444444&hide_border=false" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-streak-stats.vercel.app?user=jpranays&theme=dracula&ring=58a6ff&fire=FF6C37&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-streak-stats.vercel.app?user=jpranays&theme=swift&ring=0d47a1&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=444444&hide_border=false" />
+    <img alt="GitHub Streak" src="https://jpranays-github-readme-streak-stats.vercel.app?user=jpranays&theme=swift&ring=0d47a1&fire=FF6C37&currStreakNum=000000&sideLabels=000000&dates=444444&hide_border=false" />
   </picture>
 </p>
 
