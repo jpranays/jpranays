@@ -28,17 +28,17 @@
 <p align="center">
   <a href="https://github.com/jpranays/react-fast-hooks">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
-      <img width="278" alt="react-fast-hooks" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <img width="278" alt="react-fast-hooks" src="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
     </picture>
   </a>
 
   <a href="https://github.com/jpranays/cli-gh">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
-      <source media="(prefers-color-scheme: light)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
-      <img width="278" alt="cli-gh" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dracula&title_color=58a6ff&hide_border=false&icon_color=79c0ff&show_icons=false" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
+      <img width="278" alt="cli-gh" src="https://github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false" />
     </picture>
   </a>
 </p>
