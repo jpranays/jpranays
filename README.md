@@ -239,7 +239,7 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white">
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
-  <img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-000000?logo=docusaurus&logoColor=white">
+  <img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-3ecc5f?logo=docusaurus&logoColor=white">
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0081CB.svg?logo=framer&logoColor=white">
   <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245.svg?logo=react-router&logoColor=white">
   <img alt="Formik" src="https://img.shields.io/badge/Formik-0B1D3D.svg?logo=formik&logoColor=white">
