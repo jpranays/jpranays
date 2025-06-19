@@ -230,7 +230,7 @@
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white">
-  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-000.svg?logo=zustand&logoColor=white">
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-592e3f.svg?logo=zustand&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="SASS" src="https://img.shields.io/badge/SASS-cc6699.svg?logo=sass&logoColor=white">
