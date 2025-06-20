@@ -32,8 +32,8 @@
   <a href="https://github.com/jpranays/react-fast-hooks">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=dracula&title_color=58a6fe&hide_border=false&icon_color=79c0ff&show_icons=false&hide_forks=true&npm_package=react-fast-hooks" />
-      <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false&hide_forks=true&npm_package=react-fast-hooks" />
-      <img width="max-content" alt="react-fast-hooks" src="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a1&hide_border=false&icon_color=0d47a1&show_icons=false&hide_forks=true&npm_package=react-fast-hooks" />
+      <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a2&hide_border=false&icon_color=0d47a1&show_icons=false&hide_forks=true&npm_package=react-fast-hooks" />
+      <img width="max-content" alt="react-fast-hooks" src="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=react-fast-hooks&theme=swift&title_color=0d47a2&hide_border=false&icon_color=0d47a1&show_icons=false&hide_forks=true&npm_package=react-fast-hooks" />
     </picture>
   </a>
 
