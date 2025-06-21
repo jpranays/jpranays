@@ -287,8 +287,8 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=dracula&title_color=58a6ff&icon_color=79c0ff&hide_border=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
-    <img height="max-content" alt="GitHub Stats" src="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a1&icon_color=0d47a1&hide_border=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a2&icon_color=0d47a1&hide_border=false" />
+    <img height="max-content" alt="GitHub Stats" src="https://jpranays-github-readme-stats.vercel.app/api?username=jpranays&show_icons=true&theme=swift&title_color=0d47a2&icon_color=0d47a1&hide_border=false" />
   </picture>
 <!--
   <picture>
