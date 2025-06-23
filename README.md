@@ -19,7 +19,7 @@
   <a href="mailto:pranay1315@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-<a href="tel:8888399676">
+<a href="tel:+918888399676">
   <img src="https://img.shields.io/badge/Reach%20Out-FF5722?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
 </a>
 
