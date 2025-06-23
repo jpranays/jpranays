@@ -19,17 +19,11 @@
   <a href="mailto:pranay1315@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-<a href="tel:+918888399676">
-  <img src="https://img.shields.io/badge/Reach%20Out-FF5722?style=for-the-badge&logo=phone&logoColor=white" alt="Phone">
+<a href="https://wa.me/918888399676" target="_blank">
+  <img src="https://img.shields.io/badge/Reach%20Out-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a><a href="https://discord.com/users/jpranays" target="_blank">
+  <img src="https://img.shields.io/badge/Reach%20Out-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
-
-
-
-
-
-
-
-
 
   <a href="https://jpranays.netlify.app/Pranay_Sunil_Jadhav_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
