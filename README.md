@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   </a>
   <a href="https://leetcode.com/u/jpranays">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-f79c15?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="mailto:pranay1315@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
