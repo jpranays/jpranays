@@ -22,9 +22,9 @@
 <a href="https://wa.me/918888399676" target="_blank">
   <img src="https://img.shields.io/badge/Reach%20Out-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
-  <a href="https://discord.com/users/jpranays" target="_blank">
+<!--   <a href="https://discord.com/users/jpranays" target="_blank">
   <img src="https://img.shields.io/badge/Let's%20Connect-4752C4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+</a> -->
   <a href="https://jpranays.netlify.app/Pranay_Sunil_Jadhav_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
   </a>
