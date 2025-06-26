@@ -47,8 +47,8 @@
   <a href="https://github.com/jpranays/cli-gh">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=dracula&title_color=f3f3f3&text_color=ffffff&hide_border=false&icon_color=f3f3f4&show_icons=false&hide_forks=true&npm_package=cli-gh" />
-      <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&text_color=0d073e&hide_border=false&icon_color=0d47a2&show_icons=false&hide_forks=true&npm_package=cli-gh" />
-      <img width="max-content" alt="cli-gh" src="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&text_color=0d073e&hide_border=false&icon_color=0d47a2&show_icons=false&hide_forks=true&npm_package=cli-gh" />
+      <source media="(prefers-color-scheme: light)" srcset="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&text_color=0c0236&hide_border=false&icon_color=0d47a2&show_icons=false&hide_forks=true&npm_package=cli-gh" />
+      <img width="max-content" alt="cli-gh" src="https://jpranays-github-readme-stats.vercel.app/api/pin/?username=jpranays&repo=cli-gh&theme=swift&title_color=0d47a1&text_color=0c0236&hide_border=false&icon_color=0d47a2&show_icons=false&hide_forks=true&npm_package=cli-gh" />
     </picture>
   </a>
 </p>
