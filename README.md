@@ -1,4 +1,4 @@
----
+<h1 align="center">&lt;Hello World 👋/&gt;</h1>
 
 <p align="center">
   <a href="https://jpranays.netlify.app" target="_blank">
@@ -288,7 +288,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <picture>
