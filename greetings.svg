@@ -32,6 +32,16 @@
           background-position: 0 0;
           border: 24px solid;
           border-color: var(--color-background);
+          height: 400px;
+          width: 50% !important;
+          margin: 0 auto;
+          animation: fade 2s ease-in-out;
+        }
+
+        @media screen and (max-width: 768px) {
+          .body {
+            width: 100% !important;
+          }
         }
 
         
@@ -44,15 +54,9 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          height: 400px;
           
         }
 
-        @media (max-width: 768px) {
-          .container {
-            
-          }
-        }
 
         h1 {
           font-size: 3.5rem;
