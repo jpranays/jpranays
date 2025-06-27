@@ -48,13 +48,18 @@
         }
 
         .container {
-          background: var(--color-background);
+          background:#ffffff;
           height: calc(100% - 10px);
           width: calc(100% - 10px);
           display: flex;
           flex-direction: column;
           justify-content: center;
           align-items: center;
+        }
+        @media (prefers-color-scheme: dark) {
+          .container {
+            background: #0f172a;
+          }
         }
 
         h1 {
@@ -169,7 +174,7 @@
       <div class="body">
         <div class="container">
           <h1>
-            <a href="https://github.com/jpranays">
+            <a href="https://github.com/jpranays" target="_blank" rel="noopener noreferrer">
               <span><em>Pranay Jadhav</em></span>
               <span><em>Pranay Jadhav</em></span>
               <span><em>Pranay Jadhav</em></span>
