@@ -1,5 +1,9 @@
 <h1 align="center">&lt;Hello World 👋/&gt;</h1>
-
+<div style="width: 100%;">
+  <a href="https://github.com/jpranays/jpranays/blame/main/welcome.svg">
+    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
+</div>
 <p align="center">
   <a href="https://jpranays.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-21356C?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
