@@ -3,7 +3,6 @@
     <img
       src="https://github.com/jpranays/jpranays/blob/main/greetings.svg"
       alt="Click to see the source"
-      style="width: 100%; max-width: 600px;"
     />
   </a>
 </div>
