@@ -21,7 +21,7 @@
           --color-link-active: #ff4444;
 
           height: 400px;
-          width: 50%;
+          width: 50% !important;
           text-transform: uppercase;
           display: flex;
           align-items: center;
@@ -37,7 +37,7 @@
 
         @media (max-width: 768px) {
           .body {
-            width: 100%;
+            width: 80%;
           }
         }
 
