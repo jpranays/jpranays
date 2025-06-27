@@ -20,8 +20,7 @@
           --color-link: #fef29e;
           --color-link-active: #ff4444;
 
-          height: 400px;
-          width: 50% !important;
+          
           text-transform: uppercase;
           display: flex;
           align-items: center;
@@ -33,17 +32,9 @@
           background-position: 0 0;
           border: 24px solid;
           border-color: var(--color-background);
-          position:fixed;
-          top:50%;
-          left:50%;
-          transform:translate(-50%,-50%)
         }
 
-        @media (max-width: 768px) {
-          .body {
-            width: 80%;
-          }
-        }
+        
 
         .container {
           background: var(--color-background);
@@ -53,6 +44,14 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
+          height: 400px;
+          width: 50% !important;
+        }
+
+        @media (max-width: 768px) {
+          .container {
+            width: 80% !important;
+          }
         }
 
         h1 {
