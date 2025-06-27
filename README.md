@@ -1,8 +1,14 @@
-<div style="width: 100%;" align="center">
+<div align="center">
   <a href="https://jpranays.netlify.app/">
-    <img src="https://github.com/jpranays/jpranays/blob/main/greetings.svg" style="width: 100%;" alt="Click to see the source">
+    <picture>
+      <!-- For mobile devices: full width -->
+      <source media="(max-width: 768px)" srcset="https://github.com/jpranays/jpranays/blob/main/greetings.svg" />
+      <!-- Fallback for larger screens: 50% width -->
+      <img src="https://github.com/jpranays/jpranays/blob/main/greetings.svg" style="width: 50%;" alt="Click to see the source">
+    </picture>
   </a>
 </div>
+
 <p align="center">
   <a href="https://jpranays.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-21356C?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">
