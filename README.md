@@ -1,5 +1,5 @@
 <div style="width: 100%;" align="center">
-  <a href="https://github.com/jpranays/jpranays/blame/main/welcome.svg/">
+  <a href="https://github.com/jpranays/jpranays/blame/main/greetings.svg/">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
