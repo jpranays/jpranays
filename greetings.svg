@@ -45,12 +45,12 @@
           justify-content: center;
           align-items: center;
           height: 400px;
-          width: 50% !important;
+          
         }
 
         @media (max-width: 768px) {
           .container {
-            width: 80% !important;
+            
           }
         }
 
