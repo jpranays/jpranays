@@ -20,18 +20,13 @@
           --color-link: #e0f2fe;         /* Cyan-100 */
           --color-link-active: #facc15;  /* Yellow-400 */
 
-          height: 300px;
+          height: 350px;
           width: 50%;
           margin: 0 auto;
           text-transform: uppercase;
           display: flex;
           align-items: center;
           justify-content: center;
-
-          position:absolute;
-          top: 50%;
-          left: 50%;
-          transform: translate(-50%, -50%);
 
           background-image: radial-gradient(
             #138808,            
