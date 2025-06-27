@@ -1,5 +1,4 @@
-<h1 align="center">&lt;Hello World 👋/&gt;</h1>
-
+---
 
 <p align="center">
   <a href="https://jpranays.netlify.app" target="_blank">
