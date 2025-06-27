@@ -1,9 +1,10 @@
 <div align="center">
   <a href="https://jpranays.netlify.app/">
-    <img
-      src="https://github.com/jpranays/jpranays/blob/main/greetings.svg"
-      alt="Click to see the source"
-    />
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jpranays/jpranays/blob/main/welcome-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
+      <img width="max-content" alt="react-fast-hooks" src="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
+    </picture>
   </a>
 </div>
 
