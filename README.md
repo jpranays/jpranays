@@ -1,6 +1,6 @@
 <div style="width: 100%;" align="center">
-  <a href="https://github.com/jpranays/jpranays/blame/main/greetings.svg/">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
+  <a href="https://jpranays.netlify.app/">
+    <img src="https://github.com/jpranays/jpranays/blob/main/greetings.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 </div>
 <p align="center">
