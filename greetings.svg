@@ -101,16 +101,6 @@
         h1 a span:nth-child(2) em {
           margin-top: -6px;
           line-height: 1rem;
-          background: radial-gradient(circle at 50% 50%, #F3f3f3, #000080);
-          background: radial-gradient(circle at 50% 50%, #F3f3f3, #000080);
-background: rgba(0, 0, 128, 0.1);
-background: radial-gradient(circle, rgba(0, 0, 128, 0.7) 0%, rgba(250, 247, 247, 1) 100%);
-          background-clip: text;
-          -webkit-background-clip: text;
-          color: transparent;
-          background-clip: text;
-          -webkit-background-clip: text;
-          color: transparent;
         }
 
         h1 a span:nth-child(3) {
