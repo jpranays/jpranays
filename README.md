@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   <a href="https://jpranays.netlify.app/">
      <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jpranays/jpranays/blob/main/welcome-dark.svg" />
@@ -6,7 +6,7 @@
       <img width="max-content" alt="My name" src="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
     </picture>
   </a>
-</div>
+</div>-->
 
 
 <p align="center">
