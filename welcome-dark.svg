@@ -37,6 +37,7 @@
           background-size: 200% 200%;
           background-position: 0 0;
           border-radius: 10px;
+        
  
 
         }
@@ -56,12 +57,25 @@
           flex-direction: column;
           justify-content: center;
           align-items: center;
-          background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%) !important; /* Slate-900 */
+          background: linear-gradient(-45deg, #00d2ff 0%, #3a47d5 100%) ; /* Slate-900 */
+<!--          background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); -->
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
           border-radius: 10px;
-        
-        
-
+        background: linear-gradient(180deg,#ff9933,#ffffff,#138808);
+  background-size: 180% 180%;
         }
+      @keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
 
         h1 {
           font-size: 3.5rem;
