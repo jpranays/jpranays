@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/jpranays/jpranays/blob/main/wave.svg" width="60px"/>
+  <img src="https://github.com/jpranays/jpranays/blob/main/Globe.gif" width="50px"/>
+</p>
+
 <div align="center">
   <a href="https://jpranays.netlify.app/">
      <picture>
