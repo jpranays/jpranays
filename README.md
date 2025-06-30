@@ -13,6 +13,8 @@
   </a>
 </div>
 
+<hr/>
+
 
 <p align="center">
   <a href="https://jpranays.netlify.app" target="_blank">
