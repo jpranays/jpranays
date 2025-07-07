@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/jpranays">
-    <img src="https://img.shields.io/badge/Twitter-343434?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
+    <img src="https://img.shields.io/badge/X-343434?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X">
   </a>
   <a href="https://www.npmjs.com/~jpranays">
     <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
@@ -45,6 +45,9 @@
 </a> -->
   <a href="https://jpranays.netlify.app/Pranay_Sunil_Jadhav_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
+  </a>
+  <a href="https://www.reddit.com/user/jpranays/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
   </a>
 </p>
 
