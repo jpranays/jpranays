@@ -260,17 +260,26 @@
   <img alt="Zustand" src="https://img.shields.io/badge/Zustand-592e3f.svg?logo=zustand&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
   <img alt="SASS" src="https://img.shields.io/badge/SASS-cc6699.svg?logo=sass&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
   <img alt="Styled Components" src="https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white">
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
+  <img alt="React Testing Library" src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testing-library&logoColor=white">
   <img alt="Docusaurus" src="https://img.shields.io/badge/Docusaurus-3ecc5f?logo=docusaurus&logoColor=white">
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer%20Motion-0081CB.svg?logo=framer&logoColor=white">
   <img alt="React Router" src="https://img.shields.io/badge/React%20Router-CA4245.svg?logo=react-router&logoColor=white">
   <img alt="Formik" src="https://img.shields.io/badge/Formik-0B1D3D.svg?logo=formik&logoColor=white">
   <img alt="Yup" src="https://img.shields.io/badge/Yup-0A4B8D.svg?logo=yup&logoColor=white">
+  <img alt="Mantine" src="https://img.shields.io/badge/Mantine-339af0.svg?logo=mantine&logoColor=white">
+<img alt="PrimeReact" src="https://img.shields.io/badge/PrimeReact-0D94D3.svg?logo=primefaces&logoColor=white">
+<img alt="RSuite" src="https://img.shields.io/badge/RSuite-E53935.svg?logo=rsuite&logoColor=white">
+<img alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=mui&logoColor=white">
+<img alt="Ant Design" src="https://img.shields.io/badge/Antd-0170FE.svg?logo=ant-design&logoColor=white">
+<img alt="React Fast Hooks" src="https://img.shields.io/badge/React--Fast--Hooks-61DAFB.svg?logo=react&logoColor=white">
+
 </p>
 
 <!-- ⚙️ Back-end -->
@@ -284,6 +293,10 @@
   <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-880000.svg?logo=mongoose&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white">
   <img alt="Nodemon" src="https://img.shields.io/badge/Nodemon-76D04B.svg?logo=nodemon&logoColor=white">
+  <img alt="Helmet.js" src="https://img.shields.io/badge/Helmet.js-4B32C3.svg?logo=helmet&logoColor=white">
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-25A162.svg?logo=api&logoColor=white">
+ <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?logo=jsonwebtokens&logoColor=white">
+
 </p>
 
 <!-- 🧰 Tools -->
@@ -291,20 +304,29 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white">
   <img alt="Chrome DevTools" src="https://img.shields.io/badge/Chrome%20DevTools-4285F4.svg?logo=google-chrome&logoColor=white">
+  <img alt="Lighthouse" src="https://img.shields.io/badge/Lighthouse-F44B21.svg?logo=lighthouse&logoColor=white">
+  <img alt="UnLighthouse" src="https://img.shields.io/badge/UnLighthouse-242938.svg?logo=chrome&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white">
   <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?logo=githubactions&logoColor=white">
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7.svg?logo=netlify&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white">
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white">
   <img alt="pnpm" src="https://img.shields.io/badge/pnpm-F69220.svg?logo=pnpm&logoColor=white">
   <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263.svg?logo=eslint&logoColor=white">
   <img alt="Prettier" src="https://img.shields.io/badge/Prettier-F7B93E.svg?logo=prettier&logoColor=black">
+  <img alt="Co-pilot" src="https://img.shields.io/badge/GitHub_Copilot-24292F.svg?logo=github&logoColor=white">
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-00A67E.svg?logo=openai&logoColor=white">
   <img alt="Rollup" src="https://img.shields.io/badge/Rollup-EC4A3F.svg?logo=rollup.js&logoColor=white">
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black">
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"/>
   <img alt="Brave" src="https://img.shields.io/badge/Brave-FF5900.svg?logo=brave&logoColor=white">
   <img alt="Snyk" src="https://img.shields.io/badge/Snyk-4F86F7.svg?logo=snyk&logoColor=white">
+  <img alt="CLI-GH" src="https://img.shields.io/badge/CLI-GH-181717.svg?logo=github&logoColor=white">
+
 </p>
 
 ---
