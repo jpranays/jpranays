@@ -43,7 +43,7 @@
 <!--   <a href="https://discord.com/users/jpranays" target="_blank">
   <img src="https://img.shields.io/badge/Let's%20Connect-4752C4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a> -->
-  <a href="https://jpranays.netlify.app/Pranay_Sunil_Jadhav_Resume.pdf" target="_blank">
+  <a href="https://jpranays.netlify.app/Pranay_Jadhav_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
   </a>
 <!--   <a href="https://www.reddit.com/user/jpranays/" target="_blank">
