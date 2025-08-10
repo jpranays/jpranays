@@ -256,7 +256,7 @@
 <p align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E.svg?logo=vue.js&logoColor=4FC08D">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E.svg?logo=vue.js&logoColor=4FC08D">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white">
   <img alt="Zustand" src="https://img.shields.io/badge/Zustand-592e3f.svg?logo=zustand&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
