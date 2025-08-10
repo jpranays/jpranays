@@ -282,7 +282,7 @@
 <img alt="RSuite" src="https://img.shields.io/badge/RSuite-E53935.svg?logo=rsuite&logoColor=white">
 <img alt="Material UI" src="https://img.shields.io/badge/MUI-007FFF.svg?logo=mui&logoColor=white">
 <img alt="Ant Design" src="https://img.shields.io/badge/Antd-0170FE.svg?logo=ant-design&logoColor=white">
-<img alt="React Fast Hooks" src="https://img.shields.io/badge/React--Fast--Hooks-61DAFB.svg?logo=react&logoColor=white">
+<img alt="React Fast Hooks" src="https://img.shields.io/badge/React--Fast--Hooks-007FFF.svg?logo=react&logoColor=white">
 
 </p>
 
