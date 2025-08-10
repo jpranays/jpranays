@@ -256,10 +256,13 @@
 <p align="center">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E.svg?logo=vue.js&logoColor=4FC08D">
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white">
   <img alt="Zustand" src="https://img.shields.io/badge/Zustand-592e3f.svg?logo=zustand&logoColor=white">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
   <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux%20Toolkit-593D88.svg?logo=redux&logoColor=white">
+  <img alt="Vuex" src="https://img.shields.io/badge/Vuex-35495E.svg?logo=vue.js&logoColor=4FC08D">
+  <img alt="Pinia" src="https://img.shields.io/badge/Pinia-FFD859.svg?logo=vue.js&logoColor=35495E">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
   <img alt="SASS" src="https://img.shields.io/badge/SASS-cc6699.svg?logo=sass&logoColor=white">
