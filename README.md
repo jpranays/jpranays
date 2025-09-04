@@ -53,8 +53,8 @@
   </a> -->
 </p>
 
-<!--- 
-
+---
+<!--
 <h2 align="center">🤩 My Featured Projects</h2>
 -->
 <p align="center">
@@ -77,7 +77,7 @@
 
 ---
 
-<h2 align="center">📘 My Open Source Contributions</h2>
+<!-- <h2 align="center">📘 My Open Source Contributions</h2> -->
 
 <div align="center">
 
@@ -246,7 +246,7 @@
 
 ---
 
-<h2 align="center">🛠️ My Favorite Tools</h2>
+<!-- <h2 align="center">🛠️ My Favorite Tools</h2> -->
 
 <!-- 🧑‍💻 Languages -->
 <p align="center">
@@ -337,7 +337,7 @@
 
 ---
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<!-- <h2 align="center">📊 My GitHub Stats</h2> -->
 
 <p align="center">
   <picture>
