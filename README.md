@@ -3,6 +3,21 @@
   <img src="https://github.com/jpranays/jpranays/blob/main/Globe.gif" width="50px"/>
 </p>
 
+<!--
+<p align="center"><i>Myself,</i></p>
+
+<div align="center">
+  <a href="https://jpranays.netlify.app/">
+     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
+      <img width="max-content" alt="My name" src="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
+    </picture>
+  </a>
+</div>
+
+<hr/>
+-->
 
 
 <p align="center">
@@ -38,7 +53,7 @@
   </a> -->
 </p>
 
----
+<!--- -->
 
 <h2 align="center">🤩 My Featured Projects</h2>
 
