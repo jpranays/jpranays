@@ -53,10 +53,10 @@
   </a> -->
 </p>
 
-<!--- -->
+<!--- 
 
 <h2 align="center">🤩 My Featured Projects</h2>
-
+-->
 <p align="center">
   <a href="https://github.com/jpranays/react-fast-hooks">
     <picture>
