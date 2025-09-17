@@ -1,4 +1,4 @@
-<p align="center" title="Hello World!!">  
+<p align="center" title="Hello World!!">   
   <img src="https://github.com/jpranays/jpranays/blob/main/wave.svg" width="42px"/>
   <img src="https://github.com/jpranays/jpranays/blob/main/Globe.gif" width="50px"/>
 </p>
