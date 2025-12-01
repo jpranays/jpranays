@@ -4,7 +4,7 @@
 </p>   
          
 <!--
-<p align="center"><i>Myself,</i></p> 
+<p align="center"><i>Myself,</i></p>  
 
 <div align="center">
   <a href="https://jpranays.netlify.app/">
