@@ -3,7 +3,7 @@
   <img src="https://github.com/jpranays/jpranays/blob/main/Globe.gif" width="50px"/> 
 </p>      
               
-<!--
+<!-- 
 <p align="center"><i>Myself,</i></p>   
    
 <div align="center">
