@@ -54,9 +54,8 @@
 </p>
 
 ---
-<!--
-<h2 align="center">🤩 My Featured Projects</h2>
--->
+<h2 align="center">🤩 My Featured Work</h2>
+
 <p align="center">
   <a href="https://github.com/jpranays/react-fast-hooks">
     <picture>
@@ -77,7 +76,7 @@
 
 ---
 
-<!-- <h2 align="center">📘 My Open Source Contributions</h2> -->
+ <h2 align="center">📘 My Open Source Contributions</h2> 
 
 <div align="center">
 
@@ -246,7 +245,7 @@
 
 ---
 
-<!-- <h2 align="center">🛠️ My Favorite Tools</h2> -->
+ <h2 align="center">🛠️ My Favorite Tools</h2>
 
 <!-- 🧑‍💻 Languages -->
 <p align="center">
@@ -337,7 +336,7 @@
 
 ---
 
-<!-- <h2 align="center">📊 My GitHub Stats</h2> -->
+ <h2 align="center">📊 My GitHub Stats</h2>
 
 <p align="center">
   <picture>
