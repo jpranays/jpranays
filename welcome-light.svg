@@ -1,5 +1,5 @@
 <svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
+  <foreignObject width="100%" height="100%" align="center">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
         * {
@@ -21,7 +21,7 @@
           --color-link-active: #facc15;  /* Yellow-400 */
 
           height: 120px;
-          width: 50%;
+          width: 30%;
           margin: 0 auto;
           text-transform: uppercase;
           display: flex;
@@ -57,6 +57,7 @@
           align-items: center;
           background: #0f172ac9 !important; /* Slate-900 */
           border-radius: 10px;
+          padding-left: 20px;
 
 
         }
