@@ -81,6 +81,7 @@
 
         h1 a span em {
           display: block;
+          letter-spacing:10px;
         }
 
         h1 a span:nth-child(1) {
