@@ -4,7 +4,7 @@
 </p>             
                                   
            
-<p align="center"><i>Myself,</i></p>     
+<p align="center"><i>Hi there! I'm</i></p>     
     
 <div align="center">
   <a href="https://jpranays.netlify.app/">
@@ -15,6 +15,15 @@
     </picture>
   </a>
 </div>
+
+<p align="center">
+  <b>Full-Stack Developer &nbsp;|&nbsp; Open Source Enthusiast &nbsp;|&nbsp; Based in India 🇮🇳</b>
+</p>
+
+<p align="center">
+  Passionate about building developer tools and open-source libraries that make developers' lives easier.<br/>
+  I love crafting clean, reusable code — from custom React hooks to CLI utilities.
+</p>
 
 <hr/>
 
