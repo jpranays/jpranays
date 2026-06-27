@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <a href="https://jpranays.netlify.app" target="_blank">
+  <a href="https://jpranays.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-21356C?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jpranays">
