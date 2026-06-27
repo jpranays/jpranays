@@ -7,7 +7,7 @@
 <p align="center"><i>Myself,</i></p>     
     
 <div align="center">
-  <a href="https://jpranays.netlify.app/">
+  <a href="https://jpranays.site/">
      <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/jpranays/jpranays/blob/main/welcome-light.svg" />
@@ -45,7 +45,7 @@
 <!--   <a href="https://discord.com/users/jpranays" target="_blank">
   <img src="https://img.shields.io/badge/Let's%20Connect-4752C4?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a> -->
-  <a href="https://jpranays.netlify.app/Pranay_Jadhav_Resume.pdf" target="_blank">
+  <a href="https://jpranays.site/Pranay_Jadhav_Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume">
   </a>
 <!--   <a href="https://www.reddit.com/user/jpranays/" target="_blank">
